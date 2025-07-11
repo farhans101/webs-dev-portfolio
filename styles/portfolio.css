@@ -169,3 +169,42 @@ footer input[type="text"]{
    width: 100%;
    
 }
+
+.nav{
+   color: #8987A1;
+   width: 45px;
+   height: 24px;
+   list-style: none;
+   cursor: pointer;
+   padding: 0px;
+   display: flex;
+   justify-content: center;
+   
+}
+.last{
+   margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+.last-container{
+   max-width: 700px;
+}
+.pera{
+   margin: 20px 0px;
+}
+.navi{
+   list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+.nav-pt{
+   font-size: 16px;
+  cursor: pointer;
+}
